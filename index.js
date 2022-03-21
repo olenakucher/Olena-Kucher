@@ -20,7 +20,7 @@ let text3 = text1.concat(' ', text2)
 console.log(text3)
 
 //trim
-let text4 = '    Hello The Netherlands    '
+let text4 = '    Hello The Netherlands!      '
 console.log(text4.trim())
 
 //Split the words in the sentence 
